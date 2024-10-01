@@ -1,0 +1,23 @@
+#div1{
+    margin-right: 20px;
+    float: left;
+}
+
+h4 {
+    float: left;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    float: left;
+}
+.wynik {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
