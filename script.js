@@ -11,9 +11,9 @@ function Gra(wybor) {
         (wybor === 1 && losuj === 0) ||
         (wybor === 2 && losuj === 1)
     ) {
-        tekst += " Wygrałeś!";
-    } else {
         tekst += " Wygrał komputer!";
+    } else {
+        tekst += " Wygrałeś!";
     }
 
     document.getElementById("wynik").innerText = tekst;
